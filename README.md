@@ -1,7 +1,7 @@
 SNR-Aligned Consistent Diffusion for Adaptive Speech Enhancement
 ================================================================
 
-This repository builds upon the code from https://github.com/sp-uhh/sgmse-bbed[1] by Signal Processing (SP), Universität Hamburg, which is licensed under MIT License.
+This repository builds upon the code from https://github.com/sp-uhh/sgmse-bbed [1] by Signal Processing (SP), Universität Hamburg, which is licensed under MIT License.
 
 
 References
